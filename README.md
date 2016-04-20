@@ -1,5 +1,5 @@
 # balance-sheet
-A balance sheet report implemented by recursive traversal and summarized of a radix tree chart of accounts with balances
+A balance sheet report implemented by recursive traversal and summarising of a radix tree chart of accounts with balances
 
 ##Example output
 
