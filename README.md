@@ -3,7 +3,6 @@ A balance sheet report implemented by recursive traversal and summarized of a ra
 
 ##Example output
 
-```
 | numero | 	nombre	 | tipo | saldo |
 | :--- | :--- |:---: | ---: |
 | 1 | 	FINANCIACION BASICA	 | debit | 	0 |
@@ -85,4 +84,3 @@ numero	nombre	tipo	saldo
 | 1210 | 	Resultados negativos ejercicio 1	 | debit | 	0 |
 | 129 | 	Resultado del ejercicio	 | debit | 	-32001.71 |
 | 1290 | 	Resultado del ejercicio	 | credit | 	-32001.71 |
-```
